@@ -3,7 +3,7 @@
 <p>I'm Jonathan, a self-taught, full-stack software engineer hailing from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Perros-Guirec, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/4628/4628690.png" width="13"/> <b>Katowice, Poland</b>.</p>
 <p>I've created many successful products from scratch, every time leading from the front lines their development, laying out the foundations in frontend, backend and infrastructure - with a strong competitive drive to take the product further ahead.</p>
 
-I nowadays specialize in:
+I specialize in:
 
 - ♻️ Backend engineering & architecture
 - ⚡️ High availability & scalability
